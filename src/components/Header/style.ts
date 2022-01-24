@@ -1,16 +1,19 @@
 import styled from 'styled-components'
 
 export const Container = styled.header `
-    padding:2rem 2.5rem;
+    padding:var(--default-padding-top-bottom) var(--default-padding-left-right) ;
     display:flex;
     justify-content:space-between;
-    border-bottom:var(--header-border-size) solid var(--header-border-color);
+    border-bottom:var(--default-border-size) solid var(--default-border-color);
 `
 
 export const MobileMenu = styled.div `
     cursor:pointer;
     width:2rem;
     height:2rem;    
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
 
     div {
         height:3px;

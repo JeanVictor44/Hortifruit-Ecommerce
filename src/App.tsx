@@ -1,17 +1,21 @@
 import GlobalStyles from './styles/global'
-import { Header } from './components/Header'
-import { Sidebar } from './components/SideBar'
-import { Main} from './components/Main'
+import { Routes } from './routes'
+import { BrowserRouter as Router } from 'react-router-dom';
+import { GlobalContext } from './context';
+
 
 const App =  () => {  
 
   return (
-    <>
-      <GlobalStyles/>
-      <Header />
-      <Sidebar />
-      <Main />
-    </>
+    <GlobalContext>
+      <Router>
+        <GlobalStyles/>
+          <Routes />
+        
+      </Router>
+      
+      
+    </GlobalContext>
   )
 }
 
