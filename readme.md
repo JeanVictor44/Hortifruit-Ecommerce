@@ -1,6 +1,6 @@
 <h1 align="center">
     GreenCommerce
-    <img src="./public/screen.jpeg" />
+
 </h1>
 
 <h4 align="center"> 
@@ -15,7 +15,7 @@
 
 ### Web
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-
+    <img src="./public/screen.jpeg" width="400px"/>
 
 </p>
 
