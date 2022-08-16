@@ -1,5 +1,6 @@
 <h1 align="center">
-    :leaf: GreenCommerce
+    GreenCommerce
+    <img src="./public/screen.jpeg" />
 </h1>
 
 <h4 align="center"> 
