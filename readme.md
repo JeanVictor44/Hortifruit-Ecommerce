@@ -17,8 +17,8 @@
 
 ### Web
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-    <img src="./public/screen.jpeg" width="400px"/>
-
+    <img src="./public/screen.jpeg" width="800px"/>
+    <img src="./public/login.jpeg" width="800px"/>
 </p>
 
 
