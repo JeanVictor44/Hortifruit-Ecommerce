@@ -9,7 +9,9 @@
 
 
 ## :computer: Sobre o projeto
-
+<p>
+   GreenCommerce oferece em um ambiente online para compra das mais variadas frutas na web, de forma simples e rápida adiciona sua fruta ao carrinho de compras e realize o seu pedido 
+</p>
 
 ## :art: Layout
 
