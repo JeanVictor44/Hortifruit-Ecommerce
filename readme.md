@@ -3,11 +3,6 @@
 
 </h1>
 
-<h4 align="center"> 
-	:construction:	  GreenCommerce :rocket: em construção... :construction:
-</h4>
-
-
 ## :computer: Sobre o projeto
 <p>
    GreenCommerce oferece um ambiente online para compra das mais variadas frutas na web, de forma simples e rápida adicione suas frutas ao carrinho de compras e realize o seu pedido 
